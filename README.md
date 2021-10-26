@@ -8,6 +8,7 @@ Locate a missing person's exact location in a rubble caused by landslides, earth
 
 
 
-Future amendments will be expected concerning the text and possible features that can be added, whether from its purpose or technical feautures..
+Future amendments or additions will be expected concerning the text and possible features that can be added, whether from its purpose or technical feautures.
+
 
 

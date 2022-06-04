@@ -9,5 +9,8 @@ Locate a missing person's exact location on an accident.
 
 Future amendments or additions will be expected concerning the text and possible features that can be added, whether from its purpose or technical features.
 
+(Date of addition, addition index)
+04/06/2022 - 0
 
+ESP32 Freedom output might be used, but 802.11 standard is used which makes use of 2.4 and 5 GHZ frequencies that might hinder the data transmission speed.
 
